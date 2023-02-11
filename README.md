@@ -32,7 +32,7 @@ password : SUB-DEVILS
 
 
 
-# Contact me :
+# Contact Info :
 
 For Contact or For make your own tool or buy The KEY : 
 
