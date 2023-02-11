@@ -32,11 +32,13 @@ password : SUB-DEVILS
 
 
 
-# For Contact or For make your own tool or buy The KEY :
+# Contact me :
 
-print('Telegram : HEX001_SIMO\n')
-Channel Telegram : https://t.me/SUBDEVILS\n
-Github : SUB-DEVILS\n
+For Contact or For make your own tool or buy The KEY : 
+
+# Heading1 print('Telegram : HEX001_SIMO\n')
+# Heading1 Channel Telegram : https://t.me/SUBDEVILS\n
+# Heading1 Github : SUB-DEVILS\n
 
 
 
