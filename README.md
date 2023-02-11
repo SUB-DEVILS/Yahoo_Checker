@@ -34,9 +34,9 @@ password : SUB-DEVILS
 
 # For Contact or For make your own tool or buy The KEY :
 
-Telegram : HEX001_SIMO
-Channel Telegram : https://t.me/SUBDEVILS
-Github : SUB-DEVILS
+Telegram : HEX001_SIMO\n
+Channel Telegram : https://t.me/SUBDEVILS\n
+Github : SUB-DEVILS\n
 
 
 
